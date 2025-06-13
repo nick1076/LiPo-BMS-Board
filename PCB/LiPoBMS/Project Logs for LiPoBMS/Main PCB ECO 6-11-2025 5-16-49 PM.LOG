@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=PROG
+Change Net Name : Old Net Name=NetR4_1 New Net Name=STAT
+Add Class Member: Failed to add class member : Component B1 LiPo

@@ -1,0 +1,40 @@
+Change Component Footprint: Designator=D2 Old Footprint=FP-017AG-MFG New Footprint=FP-SOD523-MFG
+Change Component Comment : Designator=D2 Old Comment=1N4148 New Comment=1N4148WT-7
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8A7F5A04-E3E7-4D12-9EFB-51032ABC8890 New ItemGUID=50F81E49-6479-4668-B537-DA3E64CEEFB8 Old RevisionGUID=E1D42850-6AB0-4A7A-985E-6B1B8C1B077F New RevisionGUID=2E115DE6-6C05-49D6-8A02-A7D937BF8A5C
+Change component parameters: Designator = "D2" ("D2"); Footprint = "FP-017AG-MFG"; UniqueID = "\JRJLSJJK" ("\JRJLSJJK")
+Change component parameters (AddParameter): Name = "Average Rectified Current"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "250mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "80V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "125mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Non-Repetitive Surge Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Reverse Current"; Value = "1uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "150mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "150mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "80V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "3.5E-05oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Class Member: Failed to add class member : Component B1 LiPo
