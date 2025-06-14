@@ -10,3 +10,5 @@ This BMS is capable of proper load sharing from the USB-C power source (when pre
 Additionally, the board hosts a status LED indicating whether the LiPo is properly charged or not.
 
 Finally, the board is designed to be as compact and efficient as possible. The circuit steps down the 4.2V to 3.5V battery output to 3.3V at high efficiency using a buck converter. Additionally, components utilized are in small SMD packages and utilize both sides of the board, resulting in a very small overall circuit size. Lastly, the board features 2 M1 bolt mounting holes if mounting is needed.
+
+DigiKey BOM link: https://www.digikey.com/en/mylists/list/CX3XVJEASW
