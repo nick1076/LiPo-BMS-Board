@@ -1,0 +1,11 @@
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=SS
+Change Net Name : Old Net Name=NetD4_1 New Net Name=Q2Gate
+Change Net Name : Old Net Name=NetD5_1 New Net Name=Q1Gate
+Change Net Name : Old Net Name=NetD8_1 New Net Name=Q4Gate
+Change Net Name : Old Net Name=NetD11_1 New Net Name=Q5Gate
+Change Net Name : Old Net Name=NetR10_1 New Net Name=FB
+Change Net Name : Old Net Name=NetR11_1 New Net Name=PG
+Change Net Name : Old Net Name=Q4Gate New Net Name=Q3Gate
+Add Class Member: Failed to add class member : Component B1 LiPo
