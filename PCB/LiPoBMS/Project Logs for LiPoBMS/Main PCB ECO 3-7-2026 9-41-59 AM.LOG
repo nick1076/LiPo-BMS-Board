@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetJ1_A5 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=PROG Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R3-2
+Removed Pin From Net: NetName=STAT Pin=R4-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R4-2
+Removed Pin From Net: NetName=NetJ1_B5 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R8-2
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW0402-e3-IPC_C New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R8 Old Footprint=FP-CRCW0402-e3-IPC_C New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0402-e3-MFG New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R1 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R2 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R3 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R4 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R5 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Comment : Designator=R2 Old Comment=33kO New Comment=10kO
+Change Component Comment : Designator=R8 Old Comment=Rfbb New Comment=100kO - Rfbb
+Change Component Comment : Designator=R6 Old Comment=Rfbt New Comment=453kO - Rfbt
+Change Component Comment : Designator=R7 Old Comment=Rpg New Comment=100kO - Rpg
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1-2
+Added Pin To Net: NetName=PROG Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetD3_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetD2_1 Pin=R4-1
+Added Pin To Net: NetName=STAT Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetJ1_B5 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-4
+Added Net: Name=NetR7_1
+Add Class Member: Failed to add class member : Component B1 LiPo

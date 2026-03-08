@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=USB_VCC Pin=D1-1
+Removed Pin From Net: NetName=BUCK_IN Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=FP-403AE-MFG New Footprint=FP-477AD-MFG
+Change Component Comment : Designator=D1 Old Comment=SS14 New Comment=NRVBSS14HE
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9F72A232-2C85-476A-9F96-4A915A0D61FD New ItemGUID=42EE7BA1-14EE-46E7-B67A-D745F21036F1 Old RevisionGUID=F742670C-89EE-47B4-BC6A-76403A25BE6E New RevisionGUID=C2D151FC-A029-4544-8794-A4D1BDB3C939
+Change component parameters: Designator = "D1" ("D1"); Footprint = "FP-403AE-MFG"; UniqueID = "\FNCRLYWY" ("\FNCRLYWY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "55pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "750µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "25A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "93203856"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Reverse Current"; Value = "5µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Added Pin To Net: NetName=BUCK_IN Pin=D1-1
+Added Pin To Net: NetName=USB_VCC Pin=D1-2
+Add Class Member: Failed to add class member : Component B1 LiPo

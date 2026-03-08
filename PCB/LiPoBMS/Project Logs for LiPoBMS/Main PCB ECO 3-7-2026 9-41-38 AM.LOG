@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetJ1_A5 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=PROG Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R3-2
+Removed Pin From Net: NetName=STAT Pin=R4-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R4-2
+Removed Pin From Net: NetName=NetJ1_B5 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R8-2
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW0402-e3-IPC_C New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R8 Old Footprint=FP-CRCW0402-e3-IPC_C New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0402-e3-MFG New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R1 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R2 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R3 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R4 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Footprint: Designator=R5 Old Footprint=RESC3116X65X40LL10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Comment : Designator=R2 Old Comment=33kO New Comment=10kO
+Change Component Comment : Designator=R8 Old Comment=Rfbb New Comment=100kO - Rfbb
+Change Component Comment : Designator=R6 Old Comment=Rfbt New Comment=453kO - Rfbt
+Change Component Comment : Designator=R7 Old Comment=Rpg New Comment=100kO - Rpg
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0AB88955-2768-4ED1-9F35-5678996D571A New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=7B70642F-4BD7-4B89-A20F-A1CB170FB2FE New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D4FA994B-96F3-4BC6-AE71-4055F649264D New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=E1921154-0C3F-48A8-8FAC-57D85E738360 New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A0CD2AE5-682A-4040-B4E0-41C83870979B New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=3363B304-D870-4C39-A4F8-DCA955933520 New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=110ADA75-BFF5-45E5-8385-8C24D0703B4D New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=B9852900-436B-4A58-B6AC-5AF048E367ED New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0AB88955-2768-4ED1-9F35-5678996D571A New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=7B70642F-4BD7-4B89-A20F-A1CB170FB2FE New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=17B4B770-A210-4BC9-B1A1-8D8C5CEFD1DE New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=2D4EF0DE-6D9F-4C59-8E0C-9B9D7B2827E1 New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5B794CC6-80F1-4552-947D-9BC47DD115C7 New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=6E132DE1-8205-4CD4-BA2B-3B8D811D341F New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5B794CC6-80F1-4552-947D-9BC47DD115C7 New ItemGUID=6547DE7F-F22F-4727-826C-8B02894606B2 Old RevisionGUID=6E132DE1-8205-4CD4-BA2B-3B8D811D341F New RevisionGUID=F480799E-55CD-4A97-8093-90DAB622B458
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\GJHOTNTC" ("\GJHOTNTC")
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\XTFHTZJJ" ("\XTFHTZJJ")
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\MNBUJZAG" ("\MNBUJZAG")
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\FXEADCCX" ("\FXEADCCX")
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\YKYGDLKB" ("\YKYGDLKB")
+Change component parameters: Designator = "R6" ("R6"); Footprint = "FP-CRCW0402-e3-MFG"; UniqueID = "\FIZZXEMT" ("\FIZZXEMT")
+Change component parameters: Designator = "R7" ("R7"); Footprint = "FP-CRCW0402-e3-IPC_C"; UniqueID = "\SEMJLEQX" ("\SEMJLEQX")
+Change component parameters: Designator = "R8" ("R8"); Footprint = "FP-CRCW0402-e3-IPC_C"; UniqueID = "\QWBUMUXW" ("\QWBUMUXW")
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1-2
+Added Pin To Net: NetName=PROG Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetD3_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetD2_1 Pin=R4-1
+Added Pin To Net: NetName=STAT Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetJ1_B5 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-4
+Added Net: Name=NetR7_1
+Add Class Member: Failed to add class member : Component B1 LiPo
