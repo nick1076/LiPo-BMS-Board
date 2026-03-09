@@ -1,0 +1,12 @@
+Change Component Comment : Designator=C4 Old Comment=10µF - Cout New Comment=10µF
+Change Component Comment : Designator=R8 Old Comment=100kO - Rfbb New Comment=100kO
+Change Component Comment : Designator=R7 Old Comment=100kO - Rpg New Comment=100kO
+Change Component Comment : Designator=C3 Old Comment=120pF - Cff New Comment=120pF
+Change Component Comment : Designator=R6 Old Comment=453kO - Rfbt New Comment=453kO
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Change Net Name : Old Net Name=BAT_VCC New Net Name=VBAT
+Add Class Member: Failed to add class member : Component B1 LiPo
+Added Member To Class: ClassName=Main Member=Component D3 150120GS75000
+Added Member To Class: ClassName=Main Member=Component R3 10kO
+Added Rule: Name=Schematic Supply Nets_5

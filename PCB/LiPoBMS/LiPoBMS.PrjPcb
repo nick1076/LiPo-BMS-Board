@@ -1241,6 +1241,7 @@ Net5=NetName=NetC3_2|NetColor=$006EA300
 Net6=NetName=NetR7_2|NetColor=$006EA300
 Net7=NetName=PROG|NetColor=$006EA300
 Net8=NetName=USB_VCC|NetColor=$00FF6EFF
+Net9=NetName=VBAT|NetColor=$000083FD
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
