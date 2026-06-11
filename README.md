@@ -1,4 +1,4 @@
-# 3.7V LiPo BMS
+# LiPo Buck Converter BMS
 This repository contains all files for this project. The 3.7V LiPo BMS Board is a PCB that takes power from a USB-C port and charges a 3.7V LiPo battery.
 
 Both battery terminals are soldered to the bottom side of the board via two SMD pads.
